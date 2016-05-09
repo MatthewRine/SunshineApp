@@ -30,6 +30,7 @@ import android.support.v7.app.ActionBarActivity;
         import android.view.View;
         import android.view.ViewGroup;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class DetailActivity extends ActionBarActivity {
 
